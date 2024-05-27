@@ -12,7 +12,7 @@ The security guarantee of AI-enabled software systems (particularly using deep l
 
 ### Data Collection
 
-<p align="center"><img src='./imgs/data_collection.pdf' width=600/></p> 
+<p align="center"><img src='./imgs/data_collection.png' width=600/></p> 
 <p align="center">Figure 1: Data collection and process steps</p>
 
 To collected the manual analysis data for DL system vulnerabilities empirical studies, we implement a data collection process as shown in Figure 1. we collect data from two source a official vulnerability database NVD, and the frameworks' repositories.
